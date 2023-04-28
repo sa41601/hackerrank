@@ -9,3 +9,5 @@ int main(void)
     printf("%c\n%s\n%s", ch, s, sen);
     return 0;
 }
+
+// raihan
